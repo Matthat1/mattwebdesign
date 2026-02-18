@@ -16,8 +16,7 @@
 
 
 <script>
-window.alert("hi");
-window.alert("Matt");
+
 </script>
 
 
