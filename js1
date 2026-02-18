@@ -12,8 +12,8 @@
 <body>
 <h3>This is a sample JavaScript and HTML document.</h3>
 
-<p> What is your name? <input = "firstname">
-
+<p> What is your name? <input = "firstname"> <br>
+<button> enter </button>
 </p>
 <script>
 
