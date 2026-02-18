@@ -16,7 +16,7 @@
 
 
 <script>
-alert("hi")
+window.alert("hi")
 
 </script>
 
