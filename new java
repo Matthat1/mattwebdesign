@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sample JavaScript IO Page</title>
 
+<script>
+
+
+</script>
+
+</head>
+<body>
+<h3>This is a sample JavaScript and HTML document.</h3>
+
+<p> What is your name? <input = "firstname"> <br>
+<button> enter </button>
+</p>
+<script>
+
+</script>
+
+
+
+</body>
+</html>  
