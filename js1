@@ -12,7 +12,7 @@
 
 
 <h3>This is a sample JavaScript and HTML document.</h3>
-<p> <input = "firstname">
+<p> What is your name? <input = "firstname">
 
 </p>
 <script>
